@@ -8,8 +8,11 @@ You must watch the briefing video and read through the manual to engage in the d
 Section: L05
 
 Team Information
+
 Member 1 MacID: shinj16
+
 Member 1 StudentID: 400181762
 
 Member 2 MacID: roht
+
 Member 2 StudentID: 400377029
